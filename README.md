@@ -1,2 +1,1 @@
-# Exercise1Repo
-This is my new Exercise Repository
+Hello, this is Exercise1Repo's Repository
